@@ -1,3 +1,12 @@
+
+"""
+Description: In this project, we will use the pandas and tkinter libraries to program a simple program that allows us to easily and conveniently spell words, especially if you have dyslexia like me.
+
+Code author: Luis Nieto Hueso
+
+References: Pandas documentation: https://pandas.pydata.org/docs/ and tkinter: https://docs.python.org/3/library/tk.html
+"""
+
 import pandas as pd
 from tkinter import *
 from tkinter import messagebox
